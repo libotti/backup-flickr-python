@@ -3,6 +3,11 @@ import requests
 from bs4 import BeautifulSoup
 from alive_progress import alive_bar
 
+# Importante: Instalar as bibliotecas necessárias
+# pip install requests
+# pip install beautifulsoup4
+# pip install alive-progress
+
 # Set the flicker_account_name, and destination folder
 flicker_account_name = "mboficial"
 dest = "D:/flickr-mboficial"
