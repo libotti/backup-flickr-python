@@ -17,7 +17,7 @@ dest = "D:/flickr-mboficial"
 ```
 - **Run** the 'main' and follow the outputs. 
 
-# [![backup-flicker-python](./docs/static/img/backup-flicker-python.gif)]
+# ![backup-flicker-python](./docs/static/img/backup-flicker-python.gif)
 
 ## 👋 Contribute
 
